@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\obj\\Release\\net8.0\\win-x86\\scopedcss\\projectbundle\\MyPortfolio2024.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPortfolio2024.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\IpsThumb.db",
+      "PackagePath": "staticwebassets\\IpsThumb.db"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\IpsThumb.db",
+      "PackagePath": "staticwebassets\\img\\IpsThumb.db"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\btsadv.jpg",
+      "PackagePath": "staticwebassets\\img\\btsadv.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\call.png",
+      "PackagePath": "staticwebassets\\img\\call.png"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\envelope-regular.svg",
+      "PackagePath": "staticwebassets\\img\\envelope-regular.svg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\facebook-f.svg",
+      "PackagePath": "staticwebassets\\img\\facebook-f.svg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\fbc.jpg",
+      "PackagePath": "staticwebassets\\img\\fbc.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\linkedin-in.svg",
+      "PackagePath": "staticwebassets\\img\\linkedin-in.svg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\location.png",
+      "PackagePath": "staticwebassets\\img\\location.png"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\mail.png",
+      "PackagePath": "staticwebassets\\img\\mail.png"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\project.jpg",
+      "PackagePath": "staticwebassets\\img\\project.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\IpsThumb.db",
+      "PackagePath": "staticwebassets\\img\\projects\\IpsThumb.db"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\api-dotnet-angular.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\api-dotnet-angular.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\api-dotnet.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\api-dotnet.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\btsadvprojects.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\btsadvprojects.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\figma-microrenamer.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\figma-microrenamer.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\textium.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\textium.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\uscprojects.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\uscprojects.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\webflow-doggyevents.jpg",
+      "PackagePath": "staticwebassets\\img\\projects\\webflow-doggyevents.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\riteav.jpg",
+      "PackagePath": "staticwebassets\\img\\riteav.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\sfd.jpg",
+      "PackagePath": "staticwebassets\\img\\sfd.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\sony-logo.png",
+      "PackagePath": "staticwebassets\\img\\sony-logo.png"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\syntax.jpg",
+      "PackagePath": "staticwebassets\\img\\syntax.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\usc.jpg",
+      "PackagePath": "staticwebassets\\img\\usc.jpg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\x-twitter.svg",
+      "PackagePath": "staticwebassets\\img\\x-twitter.svg"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\js\\active.js",
+      "PackagePath": "staticwebassets\\js\\active.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\resume.docx",
+      "PackagePath": "staticwebassets\\resume.docx"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.MyPortfolio2024.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.MyPortfolio2024.props",
+      "PackagePath": "build\\MyPortfolio2024.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolio2024.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio2024.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.MyPortfolio2024.props",
+      "PackagePath": "buildTransitive\\MyPortfolio2024.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

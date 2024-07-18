@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nkZUkrwjVug=",
+  "success": true,
+  "projectFilePath": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michelle\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.7\\microsoft.netcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\michelle\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\michelle\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x64.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
