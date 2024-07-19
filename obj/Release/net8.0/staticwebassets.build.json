@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JRgVkn91vUDEqfePdklrIYhtwPfqq/k1BlKipzAc45k=",
+  "Hash": "2JLGAcLVK1ktQY6VP56BCKTd/TQxngwLVuSY/HAunN4=",
   "Source": "MyPortfolio2024",
   "BasePath": "_content/MyPortfolio2024",
   "Mode": "Default",
@@ -490,6 +490,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\projects\\IpsThumb.db"
+    },
+    {
+      "Identity": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\old-micro-renamer.png",
+      "SourceId": "MyPortfolio2024",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\",
+      "BasePath": "_content/MyPortfolio2024",
+      "RelativePath": "img/projects/old-micro-renamer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\projects\\old-micro-renamer.png"
     },
     {
       "Identity": "E:\\PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\wwwroot\\img\\projects\\textium.jpg",

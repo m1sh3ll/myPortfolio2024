@@ -63,3 +63,5 @@ E:\PROJECTS\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net
 E:\PROJECTS\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\wwwroot\js\site.js
 E:\PROJECTS\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\wwwroot\resume.docx
 E:\PROJECTS\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\wwwroot\img\projects\figma-microrenamer.jpg
+E:\PROJECTS\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\wwwroot\img\projects\old-micro-renamer.png
+E:\PROJECTS\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\MyPortfolio2024.sourcelink.json
