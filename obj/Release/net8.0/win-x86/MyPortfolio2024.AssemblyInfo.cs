@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyPortfolio2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c81473dac0fb789777aa5ca498480a121f293c75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bfa3acbafc2172f39712d6a5110e72052f23160")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyPortfolio2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyPortfolio2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

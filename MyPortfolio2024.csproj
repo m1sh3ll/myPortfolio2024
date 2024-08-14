@@ -67,6 +67,9 @@
     <Content Update="wwwroot\img\projects\figma-microrenamer.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Update="wwwroot\img\projects\micro-renamer-wpf.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Update="wwwroot\img\projects\old-micro-renamer.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
