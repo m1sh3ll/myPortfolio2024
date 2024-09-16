@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>E:\PROJECTS\MY-PORTFOLIO-PROJECTS\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\Properties\PublishProfiles\nerdommicro-001-site4 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\Properties\PublishProfiles\nerdommicro-001-site4 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>

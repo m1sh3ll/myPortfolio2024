@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROJECTS\\MY-PORTFOLIO-PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj": {}
+    "E:\\PROJECTS\\MY-PORTFOLIO-apps\\myPortfolio-apps\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj": {}
   },
   "projects": {
-    "E:\\PROJECTS\\MY-PORTFOLIO-PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj": {
+    "E:\\PROJECTS\\MY-PORTFOLIO-apps\\myPortfolio-apps\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROJECTS\\MY-PORTFOLIO-PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj",
+        "projectUniqueName": "E:\\PROJECTS\\MY-PORTFOLIO-apps\\myPortfolio-apps\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj",
         "projectName": "MyPortfolio2024",
-        "projectPath": "E:\\PROJECTS\\MY-PORTFOLIO-PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj",
+        "projectPath": "E:\\PROJECTS\\MY-PORTFOLIO-apps\\myPortfolio-apps\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\MyPortfolio2024.csproj",
         "packagesPath": "C:\\Users\\michelle\\.nuget\\packages\\",
-        "outputPath": "E:\\PROJECTS\\MY-PORTFOLIO-PROJECTS\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\obj\\publish\\win-x86\\",
+        "outputPath": "E:\\PROJECTS\\MY-PORTFOLIO-apps\\myPortfolio-apps\\myPortfolio-2024-new\\MyPortfolio2024\\MyPortfolio2024\\obj\\publish\\win-x86\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
