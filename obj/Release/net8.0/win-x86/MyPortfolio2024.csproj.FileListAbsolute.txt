@@ -1145,7 +1145,6 @@ E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\win-x86\hostfxr.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\win-x86\hostpolicy.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\win-x86\mscordaccore.dll
-E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\win-x86\mscordaccore_x86_x86_8.0.824.36612.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\win-x86\mscordbi.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\win-x86\mscorrc.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\win-x86\msquic.dll
@@ -1174,3 +1173,4 @@ E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\MyPortfolio2024.pdb
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\MyPortfolio2024.genruntimeconfig.cache
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\ref\MyPortfolio2024.dll
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\bin\Release\net8.0\win-x86\mscordaccore_x86_x86_8.0.1325.6609.dll

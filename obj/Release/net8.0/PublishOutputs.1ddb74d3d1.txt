@@ -1,0 +1,7 @@
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\PubTmp\Out\MyPortfolio2024.exe
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\PubTmp\Out\MyPortfolio2024.dll
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\PubTmp\Out\MyPortfolio2024.deps.json
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\PubTmp\Out\MyPortfolio2024.runtimeconfig.json
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\PubTmp\Out\MyPortfolio2024.pdb

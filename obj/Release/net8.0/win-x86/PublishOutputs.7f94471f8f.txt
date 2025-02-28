@@ -323,7 +323,7 @@ E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\PubTmp\Out\hostfxr.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\PubTmp\Out\hostpolicy.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\PubTmp\Out\mscordaccore.dll
-E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\PubTmp\Out\mscordaccore_x86_x86_8.0.824.36612.dll
+E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\PubTmp\Out\mscordaccore_x86_x86_8.0.1325.6609.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\PubTmp\Out\mscordbi.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\PubTmp\Out\mscorrc.dll
 E:\PROJECTS\MY-PORTFOLIO-apps\myPortfolio-apps\myPortfolio-2024-new\MyPortfolio2024\MyPortfolio2024\obj\Release\net8.0\win-x86\PubTmp\Out\msquic.dll
